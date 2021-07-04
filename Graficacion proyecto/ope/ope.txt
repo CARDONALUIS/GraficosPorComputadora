@@ -1,0 +1,1 @@
+./Debug/VertexC.cpp.o ./Debug/Bezier.cpp.o ./Debug/Vertex.cpp.o ./Debug/Traslacion.cpp.o ./Debug/Rotacion.cpp.o ./Debug/Obj.cpp.o ./Debug/Face.cpp.o ./Debug/Escalacion.cpp.o ./Debug/main.cpp.o
